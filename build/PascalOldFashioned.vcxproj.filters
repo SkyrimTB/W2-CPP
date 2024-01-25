@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\acha\source\repos\W2-CPP\Samples\pascal_old_fashioned.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\acha\source\repos\W2-CPP\Samples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1A42D2C3-75D6-32F8-BFD4-B21E27F9A6F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
